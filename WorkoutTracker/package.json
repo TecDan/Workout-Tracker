@@ -13,7 +13,7 @@
     "@react-native-async-storage/async-storage": "^1.21.0",
     "@react-navigation/material-bottom-tabs": "^6.2.28",
     "@react-navigation/native-stack": "^6.9.26",
-    "expo": "^50.0.17",
+    "expo": "^50.0.19",
     "expo-status-bar": "~1.11.1",
     "firebase": "^10.11.0",
     "react": "18.2.0",
